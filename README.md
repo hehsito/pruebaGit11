@@ -1,2 +1,3 @@
 # pruebaGit11
-A new space for innovation ideas and passion for the computer programming
+## Por Álvaro Rivera López y Raúl Martín
+### Un espacio para meter las ideas y prácticas del curso.
